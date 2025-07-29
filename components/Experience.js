@@ -7,15 +7,15 @@ export default function Experience() {
     {
       title: "Research Assistant – AI for Breast Cancer Detection",
       company: "Arizona State University",
-      location: "Tempe, AZ",
-      dates: "Jan 2024 – Present",
+      location: "Tempe, AZ, USA",
+      dates: "Dec 2024 – Present",
       description: "Developing and optimizing deep‑learning object‑detection pipelines (like Faster R‑CNN, YOLO‑based architectures) for automated breast‑cancer screening on the VinDR Mammogram dataset, streamlining data preprocessing and training workflows."+
 " Collaborating with the team to annotate detailed tumor and lesion characteristics, enabling the creation of explainable‑AI models and rigorous side‑by‑side comparisons with traditional “black‑box” approaches."
     },
     {
       title: "Data & BI Analyst – Revenue & Operations Strategy",
       company: "Yocket (Avocation Educational Services)",
-      location: "Remote",
+      location: "Mumbai, India",
       dates: "Mar 2024 – Jul 2024",
       description: "Developed SQL-powered Metabase dashboards to track potential premium users & performance metrics, raising revenue by 30%."+
       " Predicted staffing needs using sales KPIs in Python & Excel, aligning 15+ FTEs to boost output and add $200K/month in revenue."+
@@ -24,7 +24,7 @@ export default function Experience() {
     {
       title: "Business Intelligence Analyst – Partner Strategy",
       company: "Azent Overseas Education Ltd",
-      location: "Remote",
+      location: "Mumbai, India",
       dates: "Dec 2022 – Feb 2024",
       description: "Built Zoho Analytics dashboards, delivered weekly CEO reports, improved partner activation by 15%, and led predictive modeling on competitors’ data to onboard 500+ partners in 3 months."+
       " Led EDA on applications using Excel & Stats, evaluated product gaps & streamlined ops to raise partner activation by 15% MoM."+
@@ -33,7 +33,7 @@ export default function Experience() {
     {
       title: "Sales Data Analyst – Customer Insights & Segmentation",
       company: "Byju’s (Think and Learn Pvt Ltd)",
-      location: "India",
+      location: "Mumbai, India",
       dates: "Jan 2021 – Nov 2022",
       description: "Conducted customer segmentation using K-Means clustering to optimize go-to-market strategy, uplifting conversion rates to 60%."+
       " Implemented SWOT analysis and SOP redesign to refine engagement & customer service, achieving a 90% student retention rate."
@@ -41,7 +41,7 @@ export default function Experience() {
     {
       title: "IT Operations Analyst – Service Analytics",
       company: "NCR Corporation",
-      location: "India",
+      location: "Gurugram,India",
       dates: "Apr 2018 – Jul 2019",
       description: "Created service data visualizations via ServiceNow analytics suite, boosting SLA tracking accuracy and reducing breaches by 15%."+
       " Designed custom reports and incident trend models for clients, improving IT helpdesk efficiency and limiting backlog to 5%."
