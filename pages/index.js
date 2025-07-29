@@ -19,42 +19,42 @@ export default function Home() {
       <main className="relative z-10">
         <section
           id="about"
-          className="bg-white/10 backdrop-blur-20 rounded-lg p-8"
+          className="bg-white/10 backdrop-blur-20 rounded-lg p-4 sm:p-6 md:p-8"
         >
             <About />
         </section>
-        <div className="h-40" />
+        <div className="h-16 sm:h-24 md:h-40" />
         <section
           id="education"
-          className="bg-white/10 backdrop-blur-20 rounded-lg p-8"
+          className="bg-white/10 backdrop-blur-20 rounded-lg p-4 sm:p-6 md:p-8"
         >
             <Education />
         </section>
-        <div className="h-40" />
+        <div className="h-16 sm:h-24 md:h-40" />
         <section
           id="projects"
-          className="bg-white/10 backdrop-blur-20 rounded-lg p-8"
+          className="bg-white/10 backdrop-blur-20 rounded-lg p-4 sm:p-6 md:p-8"
         >
             <Projects />
         </section>
-        <div className="h-40" />
+        <div className="h-16 sm:h-24 md:h-40" />
         <section
           id="skills"
-          className="bg-white/10 backdrop-blur-20 rounded-lg p-8"
+          className="bg-white/10 backdrop-blur-20 rounded-lg p-4 sm:p-6 md:p-8"
         >
             <Skills />
         </section>
-        <div className="h-40" />
+        <div className="h-16 sm:h-24 md:h-40" />
         <section
           id="experience"
-          className="bg-white/10 backdrop-blur-20 rounded-lg p-8"
+          className="bg-white/10 backdrop-blur-20 rounded-lg p-4 sm:p-6 md:p-8"
         >
             <Experience />
         </section>
-        <div className="h-40" />
+        <div className="h-16 sm:h-24 md:h-40" />
         <section
           id="contact"
-          className="bg-white/10 backdrop-blur-20 rounded-lg p-8"
+          className="bg-white/10 backdrop-blur-20 rounded-lg p-4 sm:p-6 md:p-8"
         >
             <Contact />
         </section>
