@@ -93,7 +93,7 @@ export default function Experience() {
 
                   {/* Title and Dates */}
                   <div className="flex flex-col md:flex-row md:justify-between md:items-center mb-1">
-                    <h3 className="text-white text-2xl font-bold">{exp.title}</h3>
+                    <h3 className="text-white text-2xl font-bold flex-1 min-w-0">{exp.title}</h3>
                     <time className="text-yellow-300 text-sm md:text-base font-mono mt-2 md:mt-0">{exp.dates}</time>
                   </div>
 

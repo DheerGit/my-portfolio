@@ -61,8 +61,8 @@ export default function Projects() {
             key={i}
             className="group relative p-8 rounded-2xl bg-glass/50 backdrop-blur-xl border border-white/10 shadow-lg hover:shadow-yellow-300/50 hover:scale-105 hover:border-yellow-400 transition-all duration-500 flex flex-col"
           >
-            {/* Faint 💡 icon background */}
-            <span className="animate-bulb-glow absolute top-4 right-4 text-yellow-400/10 text-7xl select-none pointer-events-none">💡</span>
+            {/* Faint 💡 icon background - responsive size and position */}
+            <span className="animate-bulb-glow absolute top-2 right-2 sm:top-4 sm:right-4 text-3xl sm:text-7xl text-yellow-400/10 select-none pointer-events-none z-0">💡</span>
 
             <h3 className="text-white text-2xl font-bold mb-1 z-10">{proj.title}</h3>
             <p className="text-indigo-300 font-semibold mb-3 z-10">{proj.organization}</p>

@@ -7,10 +7,10 @@ export default function Hero() {
       initial={{ opacity: 0, y: 40 }}
       animate={{ opacity: 1, y: 0 }}
       transition={{ duration: 1, ease: "easeOut" }}
-      className="flex flex-col-reverse md:flex-row items-center justify-between px-4 md:px-6 pt-16 md:pt-32 pb-16 md:pb-32 max-w-7xl mx-auto"
+      className="flex flex-col md:flex-row items-center justify-between px-4 md:px-6 pt-16 md:pt-32 pb-16 md:pb-32 max-w-7xl mx-auto"
     >
       {/* Left column */}
-      <div className="w-full md:w-1/2 text-left space-y-6">
+      <div className="w-full md:w-1/2 text-left space-y-6 order-2 md:order-1">
         <h1 className="text-4xl md:text-5xl font-extrabold text-white leading-tight drop-shadow-xl">
           Hello,<br/>
           This is <span className="bg-clip-text text-transparent bg-gradient-to-r from-yellow-300 to-orange-500 drop-shadow-2xl">Dheeraj Pamnani</span>,<br/>
@@ -46,7 +46,7 @@ export default function Hero() {
       </div>
 
       {/* Right column - code snippet */}
-      <div className="w-full md:w-2/4 mb-12 md:mb-0 flex justify-center">
+      <div className="w-full md:w-2/4 mb-12 md:mb-0 flex justify-center order-1 md:order-2">
         <motion.div
           className="w-full max-w-2xl bg-white/1 backdrop-blur-lg border border-[#1F2833] rounded-lg overflow-hidden shadow-lg"
           initial={{ opacity: 0, y: 60 }}
