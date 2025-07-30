@@ -13,11 +13,11 @@ I’m Dheeraj Pamnani—a data storyteller and analytics engineer with a passion
 
 ## 🚀 Featured Projects
 
-- **Financial Forecasting Dashboard** (Power BI & Python)  
-- **Breast Cancer Detection** (YOLOv8 & Deep Learning)  
+- **Financial Forecasting Dashboard** (Power BI & Python)
+- **Yelp Topic Modeling** (NLP - BERTopic & Sentiment)   
 - **Wait-Time Estimation** (YOLOv8 & Regression)  
 - **ChatGPT Positioning** (PCA & Segmentation)  
-- **Yelp Topic Modeling** (BERTopic & Sentiment)  
+- **Breast Cancer Detection** (YOLOv8 & Deep Learning)  
 
 *(Check the `projects/` folder for detailed READMEs.)*
 
