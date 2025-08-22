@@ -38,7 +38,7 @@ export default function Hero() {
              className="px-6 py-3 border-2 border-indigo-700 text-white uppercase rounded-full font-semibold hover:bg-indigo-700 hover:text-[#0B0C10] transition-colors transition-shadow duration-300 hover-glow-yellow hover:shadow-indigo-700/60">
             Contact Me
           </a>
-          <a href="Resume_Dheeraj_Pamnani_2025.pdf" target="_blank" rel="noopener noreferrer"
+          <a href="Resume_Dheeraj_Pamnani_.pdf" target="_blank" rel="noopener noreferrer"
              className="px-6 py-3 border-2 border-transparent bg-indigo-700 text-white rounded-full font-semibold flex items-center space-x-2 transition-transform duration-300 hover:scale-110 hover-glow-yellow hover:shadow-yellow-300/60">
             <span className="bg-clip-text text-white bg-gradient-to-r from-[#66FCF1] via-indigo-700 to-[#2A2F4E] uppercase">Get Resume</span>
           </a>
