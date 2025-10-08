@@ -64,7 +64,7 @@ export default function About() {
             {/* Photo box */}
             <div className="group bg-black/20 backdrop-blur-md rounded-xl overflow-hidden ring-2 ring-indigo-700 transition-transform duration-300 ease-out hover:scale-105">
               <Image
-                src="/profile_picture.png"
+                src="profile_picture.png"
                 alt="Dheeraj Pamnani"
                 width={320}
                 height={320}
