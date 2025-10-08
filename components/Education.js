@@ -5,7 +5,7 @@ export default function Education() {
     {
       degree: "🎓 MS – Business Analytics (Big Data Track)",
       school: "W.P. Carey School of Business, Arizona State University",
-      logo: "/ASU.png", // Place your ASU logo here (public/logos/asu.png)
+      logo: "ASU.png", // Place your ASU logo here (public/logos/asu.png)
       location: "Tempe, AZ, USA",
       dates: "2024 – 2025",
       details: "Advanced analytics, machine learning, data engineering, and strategy. Capstone: Built a Power BI/Python financial forecasting dashboard. SCMA member.",
@@ -13,7 +13,7 @@ export default function Education() {
     {
       degree: "🎓 B.Tech – Computer Science & Engineering",
       school: "Amity School of Engineering and Technology, Amity University",
-      logo: "/Amity_logo.png", // Place your Amity logo here (public/logos/amity.png)
+      logo: "Amity_logo.png", // Place your Amity logo here (public/logos/amity.png)
       location: "Noida, India",
       dates: "2014 – 2018",
       details: "First Division. AI Club member. Volunteered at Amity Youth Fest.",
