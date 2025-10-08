@@ -21,7 +21,7 @@ const nextConfig = {
 
 
   // Optional: if some static hosts need prefixed asset paths, uncomment below
-  // assetPrefix: isProd ? "/my-portfolio/" : undefined,
+  assetPrefix: isProd ? "/my-portfolio/" : undefined,
 };
 
 export default nextConfig;
