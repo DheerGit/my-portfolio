@@ -84,9 +84,9 @@ export default function Contact() {
         <h3 className="text-2xl font-semibold text-white">Let’s work together!</h3>
         <p className="text-gray-200">Have a project or opportunity in mind? Reach out via email or connect on socials below.</p>
         <div className="flex flex-col items-center space-y-4 mt-4 text-gray-300">
-          <a href="mailto:dheerajconnects@gmail.com" className="flex items-center space-x-2 hover:text-yellow-400 transition" aria-label="Email">
+          <a href="mailto:dpamnani@asu.edu" className="flex items-center space-x-2 hover:text-yellow-400 transition" aria-label="Email">
             <FaEnvelope />
-            <span>dheerajconnects@gmail.com</span>
+            <span>dpamnani@asu.edu</span>
           </a>
           <a href="tel:+16028079382" className="flex items-center space-x-2 hover:text-yellow-400 transition" aria-label="Phone">
             <FaPhone />

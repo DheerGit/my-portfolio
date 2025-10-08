@@ -40,18 +40,20 @@ export default function About() {
           <div className="w-full lg:w-3/5 bg-black/20 backdrop-blur-md rounded-xl p-8 space-y-6 transition-transform duration-300 ease-out hover:-translate-y-1 hover:shadow-2xl hover:ring-2 hover:ring-[#FFDE59]/40 hover-glow-hover">
             <h2 className="text-3xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-[#66FCF1] via-[#45A29E] to-[#2A2F4E] shimmer">Who I Am?</h2>
             <p className="text-gray-200 leading-relaxed">
-              Curiosity led me from coding small tools for everyday problems to building
-              <span className="text-yellow-400 font-semibold"> data-driven solutions </span>
-              for global teams. With experience spanning
-              <span className="text-indigo-400 font-semibold"> business analytics</span>,
-              <span className="text-indigo-400 font-semibold"> machine learning</span>, and <span className="text-indigo-400 font-semibold">research</span> at
-              <span className="text-yellow-400 font-semibold"> Arizona State University</span>,
-              I thrive on turning
-              <span className="text-yellow-400 font-semibold"> complex challenges </span>
-              into actionable insights. My journey is about
-              <span className="text-indigo-400 font-semibold"> connecting the dots</span>
-              —one dataset at a time.
-            </p>
+  I’m <span className="text-yellow-400 font-semibold">Dheeraj Pamnani</span> — a data storyteller and problem solver driven by curiosity. 
+  What began as building small automation scripts has grown into creating
+  <span className="text-yellow-400 font-semibold"> intelligent, data-driven systems</span> that simplify decisions and spark business impact.
+  <br />
+  <br />
+  At <span className="text-yellow-400 font-semibold">Arizona State University</span>, I’ve explored how
+  <span className="text-indigo-400 font-semibold"> analytics, AI,</span> and
+  <span className="text-indigo-400 font-semibold"> machine learning</span> can transform insights into outcomes —
+  from training <span className="text-yellow-400 font-semibold">breast cancer detection models</span> on HPC clusters
+  to developing <span className="text-yellow-400 font-semibold">forecasting dashboards</span> that guide real-world strategy.
+  I thrive at the intersection of <span className="text-indigo-400 font-semibold">data and decision-making</span>, 
+  where each model, metric, and visualization connects the dots between 
+  <span className="text-yellow-400 font-semibold"> technology and human impact</span>.
+</p>
             <p className="text-gray-400 leading-relaxed font-medium">
   <span className="text-yellow-400 font-semibold">Open to:</span> Data Science, Analytics, Business Intelligence, or other roles where data meets impact.
 </p>
@@ -62,7 +64,7 @@ export default function About() {
             {/* Photo box */}
             <div className="group bg-black/20 backdrop-blur-md rounded-xl overflow-hidden ring-2 ring-indigo-700 transition-transform duration-300 ease-out hover:scale-105">
               <Image
-                src="profile_picture.png"
+                src="/profile_picture.png"
                 alt="Dheeraj Pamnani"
                 width={320}
                 height={320}

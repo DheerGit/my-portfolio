@@ -5,46 +5,39 @@ import { FaBriefcase } from "react-icons/fa";
 export default function Experience() {
   const experience = [
     {
-      title: "Research Assistant – AI for Breast Cancer Detection",
+      title: "Research Assistant – AI/ML & Data Science",
       company: "Arizona State University",
       location: "Tempe, AZ, USA",
       dates: "Dec 2024 – Present",
-      description: "Developing and optimizing deep‑learning object‑detection pipelines (like Faster R‑CNN, YOLO‑based architectures) for automated breast‑cancer screening on the VinDR Mammogram dataset, streamlining data preprocessing and training workflows."+
-" Collaborating with the team to annotate detailed tumor and lesion characteristics, enabling the creation of explainable‑AI models and rigorous side‑by‑side comparisons with traditional “black‑box” approaches."
+      description: "Driving end-to-end AI/ML pipelines for breast-cancer detection using the VinDr mammography dataset. Perform large-scale EDA, data preprocessing, and model optimization with PyTorch, YOLO, and RetinaNet to improve lesion-detection accuracy. Collaborate with clinicians and research teams to translate model insights into clinically interpretable outcomes aligned with regulatory standards."
     },
     {
-      title: "Data & BI Analyst – Revenue & Operations Strategy",
+      title: "Associate Data Scientist",
       company: "Yocket (Avocation Educational Services)",
       location: "Mumbai, India",
       dates: "Mar 2024 – Jul 2024",
-      description: "Developed SQL-powered Metabase dashboards to track potential premium users & performance metrics, raising revenue by 30%."+
-      " Predicted staffing needs using sales KPIs in Python & Excel, aligning 15+ FTEs to boost output and add $200K/month in revenue."+
-      " Automated lead flows employing CRM Automation; optimized workforce allocation, increasing lead to conversion rates by 1.5%."
+      description: "Built predictive models to forecast student enrollment and optimize marketing campaigns, improving targeting accuracy by 23%. Automated ETL pipelines in AWS + Databricks, cutting data latency by 40%. Leveraged SQL and Power BI for engagement analytics and collaborated cross-functionally to deploy ML-driven recommendations that boosted acquisition efficiency by 15%."
     },
     {
-      title: "Business Intelligence Analyst – Partner Strategy",
+      title: "Business Data Analyst",
       company: "Azent Overseas Education Ltd",
       location: "Mumbai, India",
       dates: "Dec 2022 – Feb 2024",
-      description: "Built Zoho Analytics dashboards, delivered weekly CEO reports, improved partner activation by 15%, and led predictive modeling on competitors’ data to onboard 500+ partners in 3 months."+
-      " Led EDA on applications using Excel & Stats, evaluated product gaps & streamlined ops to raise partner activation by 15% MoM."+
-      " Conducted predictive modeling on competitors' data to align B2B business strategy, onboarding 500+ consultants in 3 months."
+      description: "Developed Power BI dashboards and SQL-driven reporting to monitor B2B partner performance, reducing manual reporting by 35%. Delivered insights that increased lead-conversion rates by 18% and improved forecasting accuracy by 25%. Supported strategic expansion through pricing and market-trend analysis, contributing to three new international partnerships."
     },
     {
-      title: "Sales Data Analyst – Customer Insights & Segmentation",
+      title: "Business Development Analyst",
       company: "Byju’s (Think and Learn Pvt Ltd)",
       location: "Mumbai, India",
       dates: "Jan 2021 – Nov 2022",
-      description: "Conducted customer segmentation using K-Means clustering to optimize go-to-market strategy, uplifting conversion rates to 60%."+
-      " Implemented SWOT analysis and SOP redesign to refine engagement & customer service, achieving a 90% student retention rate."
+      description: "Analyzed over one million sales transactions to identify growth opportunities and optimize territory allocation, raising monthly revenue by 22%. Built Tableau dashboards to visualize regional performance and improve productivity tracking by 40%. Performed churn and cohort analyses to enhance retention strategies and supported leadership with data-driven performance reports."
     },
     {
-      title: "IT Operations Analyst – Service Analytics",
+      title: "IT Analyst",
       company: "NCR Corporation",
       location: "Gurugram,India",
       dates: "Apr 2018 – Jul 2019",
-      description: "Created service data visualizations via ServiceNow analytics suite, boosting SLA tracking accuracy and reducing breaches by 15%."+
-      " Designed custom reports and incident trend models for clients, improving IT helpdesk efficiency and limiting backlog to 5%."
+      description: "Provided data and systems analysis for IT infrastructures across 50+ client sites, maintaining 99.5% uptime. Executed SQL-based data migrations and supported software deployments in Agile sprints, cutting defect-resolution time by 20%. Improved system documentation and security protocols, ensuring compliance and operational reliability."
     },
   ];
 
