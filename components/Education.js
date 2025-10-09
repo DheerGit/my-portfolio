@@ -39,7 +39,7 @@ export default function Education() {
           >
             {/* Transcript button for ASU - top right */}
             {edu.school === "W.P. Carey School of Business, Arizona State University" && (
-              <a href="Recent_Master's_Transcript.pdf" 
+              <a href="my-portfolio/Recent_Master's_Transcript.pdf" 
               target="_blank" 
               rel="noopener noreferrer"
               className="absolute top-4 right-4 z-20 px-2.5 py-1 rounded-full bg-indigo-800/80 text-yellow-300 text-xs font-semibold shadow-lg border border-yellow-400 hover:bg-yellow-400 hover:text-indigo-900 transition-all duration-200 focus:outline-none focus:ring-2 focus:ring-yellow-400 animate-pulse"
